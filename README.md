@@ -4,7 +4,7 @@
 
 ### Purpose
 
-I ([Jon Krohn](https://www.jonkrohn.com/)) organized this repo to accompany my half-day training on **Natural Language Processing with GPT-4 and other Large Language Models: From Training to Deployment with Hugging Face and PyTorch Lightning**, which will first be offered at the Open Data Science Conference (ODSC) East in Boston on May 10th.
+I ([Jon Krohn](https://www.jonkrohn.com/)) organized this repo to accompany my half-day training on **Natural Language Processing with GPT-4 and other Large Language Models: From Training to Deployment with Hugging Face and PyTorch Lightning**, which was first offered at the [Open Data Science Conference (ODSC) East](https://odsc.com/boston/) in Boston on May 10th, 2023.
 
 ### Code
 
