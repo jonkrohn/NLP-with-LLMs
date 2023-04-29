@@ -7,3 +7,5 @@ I organized this repo to accompany my half-day training on **Natural Language Pr
 Code can be found in the aptly named [`code`](https://github.com/jonkrohn/NLP-with-LLMs/tree/main/code) directory:
 * Jupyter Notebooks are directly supported for execution in [Google Colab](https://colab.research.google.com/)
 * `.py` files are directly supported for execution via [Paperspace](https://www.paperspace.com/) Core
+
+**The code is intended to be accompanied by live instructions and will not necessarily be self-explanatory.**
