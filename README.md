@@ -9,3 +9,5 @@ Code can be found in the aptly named [`code`](https://github.com/jonkrohn/NLP-wi
 * `.py` files are directly supported for execution via [Paperspace](https://www.paperspace.com/) Core
 
 **The code is intended to be accompanied by live instructions and will not necessarily be self-explanatory.**
+
+![](https://github.com/jonkrohn/NLP-with-LLMs/blob/main/img/LLaMAs.jpeg "Do androids dream of electric LLaMAs?")
