@@ -10,4 +10,6 @@ Code can be found in the aptly named [`code`](https://github.com/jonkrohn/NLP-wi
 
 **The code is intended to be accompanied by live instructions and will not necessarily be self-explanatory.**
 
-![](https://github.com/jonkrohn/NLP-with-LLMs/blob/main/img/LLaMAs.jpeg "Do androids dream of electric LLaMAs?")
+<p align="center">
+  <img src="https://github.com/jonkrohn/NLP-with-LLMs/blob/main/img/LLaMAs.jpeg")
+</p>
