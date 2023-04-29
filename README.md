@@ -12,7 +12,7 @@ Code can be found in the aptly named [`code`](https://github.com/jonkrohn/NLP-wi
 * Jupyter Notebooks are directly supported for execution in [Google Colab](https://colab.research.google.com/)
 * `.py` files are for running at the command line, e.g., via [Paperspace](https://www.paperspace.com/) Core
 
-**The code is intended to be accompanied by live instructions and will not necessarily be self-explanatory.**
+N.B.: The code is intended to be accompanied by live instructions and will not necessarily be self-explanatory.
 
 ### Repo Art
 
