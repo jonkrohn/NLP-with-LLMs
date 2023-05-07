@@ -1,12 +1,18 @@
-# Natural Language Processing with LLMs
+# Natural Language Processing with Large Language Models
 
-[Jon Krohn](https://www.jonkrohn.com/) created this repo to accompany his half-day training on **Natural Language Processing with GPT-4 and other Large Language Models: From Training to Deployment with Hugging Face and PyTorch Lightning**, which was first offered at the [Open Data Science Conference (ODSC) East](https://odsc.com/boston/) in Boston on May 10th, 2023.
+### Purpose
+
+[Jon Krohn](https://www.jonkrohn.com/) created this repo to accompany his half-day training on **NLP with GPT-4 and other LLMs: From Training to Deployment with Hugging Face and PyTorch Lightning**, which was first offered at the [Open Data Science Conference (ODSC) East](https://odsc.com/boston/) in Boston on May 10th, 2023.
+
+### Code
 
 Code can be found in the aptly named [`code`](https://github.com/jonkrohn/NLP-with-LLMs/tree/main/code) directory:
 * Jupyter Notebooks are directly supported for execution in [Google Colab](https://colab.research.google.com/)
 * `.py` files are for running at the command line (e.g., via [Paperspace](https://www.paperspace.com/) Core)
 
 N.B.: Code is intended to be accompanied by live instructions and so it will not necessarily be self-explanatory.
+
+### Repo Art
 
 <p align="center">
   <img src="https://github.com/jonkrohn/NLP-with-LLMs/blob/main/img/LLaMAs.jpeg")
