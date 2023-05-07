@@ -2,7 +2,7 @@
 
 ### Purpose
 
-I ([Jon Krohn](https://www.jonkrohn.com/)) organized this repo to accompany my half-day training on **Natural Language Processing with GPT-4 and other Large Language Models: From Training to Deployment with Hugging Face and PyTorch Lightning**, which was first offered at the [Open Data Science Conference (ODSC) East](https://odsc.com/boston/) in Boston on May 10th, 2023.
+[Jon Krohn](https://www.jonkrohn.com/) created this repo to accompany his half-day training on **Natural Language Processing with GPT-4 and other Large Language Models: From Training to Deployment with Hugging Face and PyTorch Lightning**, which was first offered at the [Open Data Science Conference (ODSC) East](https://odsc.com/boston/) in Boston on May 10th, 2023.
 
 ### Code
 
@@ -10,7 +10,7 @@ Code can be found in the aptly named [`code`](https://github.com/jonkrohn/NLP-wi
 * Jupyter Notebooks are directly supported for execution in [Google Colab](https://colab.research.google.com/)
 * `.py` files are for running at the command line (e.g., via [Paperspace](https://www.paperspace.com/) Core)
 
-N.B.: I endeavored to make the code clear, but it is intended to be accompanied by live instructions and so will not necessarily be self-explanatory.
+N.B.: Code is intended to be accompanied by live instructions and so it will not necessarily be self-explanatory.
 
 ### Repo Art
 
