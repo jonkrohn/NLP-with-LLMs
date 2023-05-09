@@ -1,3 +1,5 @@
+# This code was created by Shaan Khosla. See original here: https://github.com/shaankhosla/NLP_with_LLMs/blob/main/train.py
+
 import pytorch_lightning as pl
 from transformers import T5ForConditionalGeneration
 from transformers import AutoTokenizer
