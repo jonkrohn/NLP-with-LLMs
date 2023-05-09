@@ -1,4 +1,5 @@
-## large portions of this adapted from https://docs.mosaicml.com/projects/streaming/en/stable/examples/synthetic_nlp.html
+## This code was created by Shaan Khosla. See original here: https://github.com/shaankhosla/NLP_with_LLMs/blob/main/generate_data.py
+## He adapted large portions from https://docs.mosaicml.com/projects/streaming/en/stable/examples/synthetic_nlp.html
 
 from typing import Any, Dict, List, Tuple
 
