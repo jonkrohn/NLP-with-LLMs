@@ -8,7 +8,7 @@
 
 Code can be found in the aptly named [`code`](https://github.com/jonkrohn/NLP-with-LLMs/tree/main/code) directory:
 * Jupyter Notebooks are directly supported for execution in [Google Colab](https://colab.research.google.com/)
-* `.py` files are for running at the command line (e.g., via [Paperspace](https://www.paperspace.com/) Core)
+* `.py` files are for running at the command line
 
 N.B.: Code is intended to be accompanied by live instructions and so it will not necessarily be self-explanatory.
 
