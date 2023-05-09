@@ -1,0 +1,28 @@
+[tool.poetry]
+name = "nlp-with-llms"
+version = "0.1.0"
+description = ""
+authors = ["shaan <skhoslajr@gmail.com>"]
+readme = "README.md"
+packages = [{include = "nlp_with_llms"}]
+
+[tool.poetry.dependencies]
+python = "^3.9.16"
+nvidia-ml-py3 = "^7.352.0"
+pytorch-lightning = "^2.0.1.post0"
+transformers = "^4.28.0"
+torchvision = "^0.15.1"
+rouge-score = "^0.1.2"
+tensorboardx = "^2.6"
+accelerate = "^0.18.0"
+peft = "^0.2.0"
+deepspeed = "^0.9.1"
+
+
+[tool.poetry.group.dev.dependencies]
+black = {extras = ["jupyter"], version = "^23.3.0"}
+ruff = "^0.0.263"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
