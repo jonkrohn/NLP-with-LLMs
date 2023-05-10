@@ -15,7 +15,7 @@
      * Change into the repo's directory with `cd NLP-with-LLMs/`
      * If the repo's dependencies haven't already been installed with Poetry, run `poetry install`
      * Fine-tune the T5 LLM with `poetry run python code/Finetune-T5-multiGPU.py`
-3. In a separate command-line window (that's also SSH'ed into your Paperspace instance), you can confirm multiple-GPU usage with `nvidia-smi -l 1` (the optional `-l 1` argument refreshes and updates the GPU status every second).
+3. In a separate command-line window (that's also SSH'ed into your Paperspace instance), you can confirm multiple-GPU usage with `nvidia-smi`
 4. When you are satisfied with your model, you can push the model to Hugging Face:
      * Uncomment these lines in `Finetune-T5-multiGPU.py`:
           * `training_model.model.push_to_hub("digit_conversion")`
